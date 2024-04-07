@@ -1,2 +1,2 @@
-document.body.style.backgroundColor = "black";
-document.body.style.color="#3db5e0"
+document.body.style.backgroundColor = "gray";
+document.body.style.color="#23755a"
